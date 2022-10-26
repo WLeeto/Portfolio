@@ -6,6 +6,7 @@
 
 * [Копирование фото с VK на Яндекс диск (использование api)](https://github.com/WLeeto/HW-VK_photos_to_Ya_disk) - Скрипт работает с api vk и яндекс диска
 -------
+* [Бот Telegram для перевода из и в KZT](https://github.com/WLeeto/KZ_bot)
 * [Работа с PSQL запросами из Python](https://github.com/WLeeto/PostSQL-from-Python)
 * [Работа по PSQL запросам. Создание БД, наполнение, сложные выборки](https://github.com/WLeeto/SQL-request-HW_2)
 * [Работа с ORM для SQL запросов](https://github.com/WLeeto/SQL_ORM_Homework)
@@ -16,8 +17,6 @@
 -------
 * [Шар предсказатель (работа с GUI интерфейсом)](https://github.com/WLeeto/MagicBall)
 -------
-
-Наверно работ, которые я готов бы был показать не много, но и Python я изучаю всего с августа 2022 ;)
 
 В данный момент я ищу стажировку и хочу продолжать развиваться как разработчик 
 
