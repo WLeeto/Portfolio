@@ -5,6 +5,7 @@
 
 
 * [Копирование фото с VK на Яндекс диск (использование api)](https://github.com/WLeeto/HW-VK_photos_to_Ya_disk) - Скрипт работает с api vk и яндекс диска
+* [Бот поиск контактов в VK (Работа с vk_bot и SQL)](https://github.com/WLeeto/VKinder_bot_vk_api)
 -------
 * [Бот Telegram для перевода из и в KZT](https://github.com/WLeeto/KZ_bot)
 * [Работа с PSQL запросами из Python](https://github.com/WLeeto/PostSQL-from-Python)
