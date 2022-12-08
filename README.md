@@ -24,19 +24,23 @@
 Олег Марченко <br>
 Ищу должность разработчика Python <br> 
 Стек: Python, Git, SQL, fastAPI, Django <br> 
-Контакты: Telegram @WLeeto
+Контакты: Telegram @WLeeto <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=WLeeto&show_icons=true&count_private=true" height="140">
     </div>
 
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 Вот несколько проектов которые я успел создать:
 
-Проекты:
+##### Заказные проекты:
+* [Валидация транзакций для Astrum Software](https://github.com/WLeeto/transaction_check)
 * [Копирование фото с VK на Яндекс диск (использование api)](https://github.com/WLeeto/HW-VK_photos_to_Ya_disk)
 * [Бот поиск контактов в VK (Работа с vk_bot и SQL)](https://github.com/WLeeto/VKinder_bot_vk_api)
+* [Бот Telegram для проекта Bezzabot](https://github.com/WLeeto/Bez_za_bot)
+
 -------
 
-Собственные задачи:
+##### Собственные задачи:
 * [Бот Telegram для перевода из и в KZT](https://github.com/WLeeto/KZ_bot)
 * [Работа с PSQL запросами из Python](https://github.com/WLeeto/PostSQL-from-Python)
 * [Работа по PSQL запросам. Создание БД, наполнение, сложные выборки](https://github.com/WLeeto/SQL-request-HW_2)
@@ -46,11 +50,11 @@
 * [Работа с регулярными выражениями. Приводит фаил к читаемому виду](https://github.com/WLeeto/Reg_exp_HW)
 -------
 
-Необходимая штука для принятия решений:
+##### Необходимая штука для принятия решений:
 * [Шар предсказатель (работа с GUI интерфейсом)](https://github.com/WLeeto/MagicBall)
 -------
-Быстрые развертывания на Django:
-* [Погода](https://github.com/WLeeto/Django_weather) Python, Django, requests, SQL 
+##### Быстрые развертывания на Django:
+* [Погода](https://github.com/WLeeto/Django_weather) Python, Django, requests, SQL
+-------
 
-В данный момент я ищу стажировку и хочу продолжать развиваться как разработчик 
 
