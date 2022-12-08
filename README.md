@@ -18,16 +18,16 @@
 </h3>
 
 
-
+<div align="center">
 <img src="https://sun9-51.userapi.com/impf/c837334/v837334653/29e15/2V1WPzo0DFw.jpg?size=1620x2160&quality=96&sign=13e6347a01d1a684cd7b70baf2013f2d&type=album" align="left" height="332" style=" border: 8px solid;">
     <div>
 Олег Марченко <br>
 Ищу должность разработчика Python <br> 
 Стек: Python, Git, SQL, fastAPI, Django <br> 
 Контакты: Telegram @WLeeto <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=WLeeto&show_icons=true&count_private=true" height="140">
+<img src="https://github-readme-stats.vercel.app/api?username=WLeeto&show_icons=true&count_private=true" height="156">
     </div>
-
+</div>
 
 <br><br><br>
 Вот несколько проектов которые я успел создать:
