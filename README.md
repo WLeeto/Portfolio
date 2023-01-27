@@ -33,6 +33,7 @@
 Вот несколько проектов которые я успел создать:
 
 ##### Заказные проекты:
+* [Бот для компании TeamForce](https://github.com/WLeeto/Digital_ref_bot)
 * [Валидация транзакций для Astrum Software](https://github.com/WLeeto/transaction_check)
 * [Копирование фото с VK на Яндекс диск (использование api)](https://github.com/WLeeto/HW-VK_photos_to_Ya_disk)
 * [Бот поиск контактов в VK (Работа с vk_bot и SQL)](https://github.com/WLeeto/VKinder_bot_vk_api)
